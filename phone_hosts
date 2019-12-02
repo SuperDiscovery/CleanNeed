@@ -1,6 +1,9 @@
-sdkconfig.ad.xiaomi.com
 data.mistat.xiaomi.com
+*.ad.xiaomi.com
 
 *.mediav.com
 t.appsflyer.com
 commercial.shouji.360.cn
+p.s.360.cn
+s.appjiagu.com
+hotchat-im.iqiyi.com
