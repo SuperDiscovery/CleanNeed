@@ -1,3 +1,7 @@
 --user 0
-pm uninstall --user 0 com.android.stk
+
+--junk
 pm uninstall com.android.email
+
+--annoying 
+pm uninstall --user 0 com.android.stk
